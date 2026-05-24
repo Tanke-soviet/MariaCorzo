@@ -110,8 +110,7 @@ Cúcuta, Colombia
 ## 🌐 Let's Connect
 - **GitHub:** [@Tanke-soviet](https://github.com/Tanke-soviet)
 - **Email:** [mafercorzo1409@gmail.com]
-- **LinkedIn:** [[Your LinkedIn profile](https://www.linkedin.com/in/maria-fernanda-corzo-castro-79a37b351/?skipRedirect=true)]
+- **LinkedIn:** [https://www.linkedin.com/in/maria-fernanda-corzo-castro-79a37b351/?skipRedirect=true]
 
 ---
 
-*"Committed to building quality software and exceptional user experiences"*
