@@ -6,35 +6,35 @@
 
 ## About me
 
-Estudiante de Ingeniería de Sistemas (VIII semestre) orientada al desarrollo frontend y la calidad de software. Experiencia en la construcción de aplicaciones web centradas en el usuario y en la implementación de estrategias de testing para asegurar productos confiables. Conocimientos en JavaScript, React y Node.js, así como en pruebas funcionales y de rendimiento. He liderado procesos de QA en proyectos académicos, destacándome por mi capacidad de organización, trabajo en equipo y resolución de problemas. Actualmente en formación en tecnologías cloud y análisis de datos, con interés en desarrollarme profesionalmente en entornos de desarrollo de software.
+Systems Engineering student (8th semester) focused on frontend development and software quality. I have experience building user-centered web applications and implementing testing strategies to ensure reliable products. Proficient in JavaScript, React, and Node.js, as well as functional and performance testing. I have led QA processes in academic projects, standing out for my organizational skills, teamwork, and problem-solving abilities. Currently training in cloud technologies and data analysis, with interest in developing professionally in software development environments.
 
 ---
 
 ## 💼 Experience & Skills
 
-### **Desarrollo Frontend**
-- **Event-Planner** — Sistema de gestión de eventos corporativos
-  - Desarrolladora Frontend | Diseñadora UX/UI en Figma | Líder QA
-  - Módulos: Eventos, agenda, inscripciones y encuestas
+### **Frontend Development**
+- **Event-Planner** — Corporate event management system
+  - Frontend Developer | UX/UI Designer (Figma) | QA Lead
+  - Modules: Events, agenda, registrations, and surveys
   - Stack: React, JavaScript, Node.js
 
-- **Sige-KB** — Plataforma de estética (cuidado capilar, manicure y pedicure)
-  - Desarrolladora Frontend | Diseñadora UX/UI en Figma
+- **Sige-KB** — Beauty services platform (hair care, manicure, and pedicure)
+  - Frontend Developer | UX/UI Designer (Figma)
   - Stack: JavaScript, React
 
-- **Gestor de Horarios** — Plataforma académica UFPS
-  - Diseñadora Frontend
-  - Funcionalidades: Organización de horarios, recordatorios académicos, recursos bibliográficos
+- **Schedule Manager** — Academic platform (UFPS)
+  - Frontend Designer
+  - Features: Schedule organization, academic reminders, bibliographic resources
   - Stack: React, JavaScript
 
 ### **QA & Testing**
-- Líder de pruebas de caja negra, rendimiento, caja blanca y escalabilidad
-- Implementación de estrategias de testing para asegurar productos confiables
-- Herramientas: Jira, Confluence, GitHub
+- Led black-box testing, performance testing, white-box testing, and scalability testing
+- Implementation of testing strategies to ensure product reliability
+- Tools: Jira, Confluence, GitHub
 
-### **Diseño & UX/UI**
-- Prototipado en Figma con enfoque user-centered
-- Diseño de interfaces intuitivas y accesibles
+### **Design & UX/UI**
+- Prototyping in Figma with user-centered approach
+- Intuitive and accessible interface design
 
 ---
 
@@ -68,39 +68,39 @@ Estudiante de Ingeniería de Sistemas (VIII semestre) orientada al desarrollo fr
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### **Databases & Architecture**
-- Bases de datos relacionales (SQL)
-- Diseño de clases lógicas para bases de datos
-- Diagramas UML
+- Relational databases (SQL)
+- Database logical class design
+- UML diagrams
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **Ingeniería de Sistemas** — Universidad Francisco de Paula Santander (VIII semestre - Cursando)
-- **Programación Intermedia** — Talento Tech del MinTIC Colombia ✓
-- **Pruebas de Software** — Universidad Francisco de Paula Santander ✓
-- **Bachiller en Pedagogía** — Escuela Normal Superior Maria Auxiliadora, Cúcuta (2021) ✓
-- **En Formación:** AWS Cloud Architecting, Data Engineering, Machine Learning
+- **Systems Engineering** — Universidad Francisco de Paula Santander (8th semester - In Progress)
+- **Intermediate Programming** — Talento Tech del MinTIC Colombia ✓
+- **Software Testing** — Universidad Francisco de Paula Santander ✓
+- **Bachelor's Degree in Pedagogy** — Escuela Normal Superior Maria Auxiliadora, Cúcuta (2021) ✓
+- **Currently Training:** AWS Cloud Architecting, Data Engineering, Machine Learning
 
 ---
 
 ## 🎯 Key Strengths
 
-- ✅ Construcción de aplicaciones web centradas en el usuario
-- ✅ Implementación de estrategias de testing robustas
-- ✅ Liderazgo en procesos de QA y control de calidad
-- ✅ Organización, trabajo en equipo y resolución de problemas
-- ✅ Habilidad para aprender rápidamente nuevas tecnologías
-- ✅ Análisis de datos y business intelligence
+- ✅ Building user-centered web applications
+- ✅ Implementing robust testing strategies
+- ✅ Leading QA processes and quality assurance
+- ✅ Organization, teamwork, and problem-solving skills
+- ✅ Ability to quickly learn new technologies
+- ✅ Data analysis and business intelligence
 
 ---
 
 ## 📚 Additional Skills
 
-- **Análisis de Datos:** PowerBI, Excel avanzado
-- **Gestión de Proyectos:** Jira, Confluence, GitHub
-- **Pruebas:** Caja negra, caja blanca, rendimiento, escalabilidad
-- **Diseño Lógico:** UML, bases de datos relacionales
+- **Data Analysis:** PowerBI, Advanced Excel
+- **Project Management:** Jira, Confluence, GitHub
+- **Testing:** Black-box, white-box, performance, scalability
+- **Logical Design:** UML, relational databases
 
 ---
 
@@ -109,8 +109,8 @@ Cúcuta, Colombia
 
 ## 🌐 Let's Connect
 - **GitHub:** [@Tanke-soviet](https://github.com/Tanke-soviet)
-- **Email:** [Tu correo]
-- **LinkedIn:** [Tu perfil LinkedIn]
+- **Email:** [Your email]
+- **LinkedIn:** [Your LinkedIn profile]
 
 ---
 
